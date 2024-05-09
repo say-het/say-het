@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I have successfully completed **Hacktoberfest-2020** ans **Hacktoberfest-2023**
+- I have successfully completed **Hacktoberfest-2020** and **Hacktoberfest-2023**
   
 - 🔭 I’m currently working on [My Portfolio Website](https://say-het.github.io)
 
@@ -24,6 +24,8 @@
 - 💬 Ask me about **HTML, Javascript, CSS, Python, Flutter**
 
 - 📫 How to reach me **m.hetmodi@gmail.com**
+  
+- @Codeforces (max. 1183) and @Leetcode (1476)
   
 
 <h3 align="left">Connect with me:</h3>
