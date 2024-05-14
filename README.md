@@ -5,10 +5,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Het Modi</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center"><b>✨ A 19 Year Old Passionate Software Engineer</b></h3>
 # 💫 About Me:
 
-**✨ A 19 Year Old Passionate Software Engineer**
 - ✅ I have successfully completed Hacktoberfest-2020 and Hacktoberfest-2023
 - 🔭 I’m currently working on AI HR Manager
 - 🌱 I’m currently learning Generative AI and Flutter
