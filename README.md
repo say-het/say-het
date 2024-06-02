@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Generative AI and Flutter
 - 👨‍💻 All of my projects are available at my Github Profile
 - 💬 Ask me about HTML, Javascript, CSS, Python, Flutter, LLMs, Gen-AI, Cyber Security
-- ⚡Fun-Fact: I am a Competitive Programmer Also!<br>@Codeforces (max. 1183), @Leetcode (1472), @Codeshef (1279)
+- ⚡Fun-Fact: I am a Competitive Programmer Also!<br>@Codeforces (max. 1197), @Leetcode (1562), 2 ⭐ @Codeshef (1488)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.student.programmer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/het-modi-603728286) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@m.hetmodi) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Het-Modi-25) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Salty-North-3252) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14032041) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/say_het) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/a_student_programmer) 
