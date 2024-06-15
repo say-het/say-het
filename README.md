@@ -9,7 +9,7 @@
 # 💫 About Me:
 
 - ✅ I have successfully completed Hacktoberfest-2020 and Hacktoberfest-2023
-- 🔭 I’m currently working on AI HR Manager
+- 🔭 I’m currently working on NLP Projects
 - 🌱 I’m currently learning Generative AI and Flutter
 - 👨‍💻 All of my projects are available at my Github Profile
 - 💬 Ask me about HTML, Javascript, CSS, Python, Flutter, LLMs, Gen-AI, Cyber Security
