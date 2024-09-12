@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on NLP Projects
 - 🌱 I’m currently learning Generative AI and Flutter
 - 👨‍💻 All of my projects are available at my Github Profile
-- 💬 Ask me about HTML, Javascript, CSS, Python, Flutter, LLMs, Gen-AI, Cyber Security
+- 💬 Ask me about Web & App DEV, Python, Flutter, LLMs, Gen-AI, Cyber Security
 - ⚡Fun-Fact: I am a Competitive Programmer Also!<br>Pupil @Codeforces , @Leetcode (1554), 3⭐ @Codeshef 
 
 ## 🌐 Socials:
