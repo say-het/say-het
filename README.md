@@ -9,7 +9,7 @@
 <h3 align="center"><b>✨ A 18 Year Old Passionate Software Engineer</b></h3>
 # 💫 About Me:
 
-- ✅ I have successfully completed Hacktoberfest-2020 and Hacktoberfest-2023
+- ✅ I have successfully completed Hacktoberfest-2020, Hacktoberfest-2023 and GSSoC-2024
 - 🔭 I’m currently working on NLP Projects
 - 🌱 I’m currently learning Generative AI and Flutter
 - 👨‍💻 All of my projects are available at my Github Profile
