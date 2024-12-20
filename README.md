@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Generative AI and Flutter
 - 👨‍💻 All of my projects are available at my Github Profile
 - 💬 Ask me about Web & App DEV, Python, Flutter, LLMs, Gen-AI, Cyber Security
-- ⚡Fun-Fact: I am a Competitive Programmer Also!<br>Pupil @Codeforces , @Leetcode (1660), 3⭐ @Codeshef
+- ⚡Fun-Fact: I am a Competitive Programmer Also!<br>Pupil @Codeforces , @Leetcode (1746), 3⭐ @Codeshef
 
 ---
 [![](https://visitcount.itsvg.in/api?id=say-het&icon=0&color=0)](https://visitcount.itsvg.in)
